@@ -1,1 +1,9 @@
-./requirements.txt
+# Byte-compiled files
+.secrets.txt
+
+# Virtual environments
+.env
+venv/
+
+# IDE settings
+.vscode/   
